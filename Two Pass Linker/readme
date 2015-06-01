@@ -1,0 +1,12 @@
+Geon Kang
+N17120399
+Operating Systems
+Spring 2014
+Lab 1: 2-pass linker
+
+Readme File
+
+Instructions:
+Compile with command: "g++ linker.cpp -o linker" (without quotes)
+run with "./linker <file path>" (without quotes and brackets <>)
+

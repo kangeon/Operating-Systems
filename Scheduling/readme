@@ -1,0 +1,28 @@
+Geon Kang
+N17120399
+Operating Systems
+Spring 2014
+Lab 2: Scheduling
+
+Readme File
+
+Instructions:
+Compile with command: "g++ lab2.cpp -o lab2" (without quotes)
+run with 
+"./lab2 [-s<schedspec>] <inputfile path> <randfile path>"
+(without quotes and brackets)
+
+As specified in the assignment, the scheduler specification is:
+"-s [ FLS | R<num> ]", where F=FCFS, L=LCFS, S=SJF and R10 is RR with quantum 10. 
+
+
+
+Notes:
+**the -v option is NOT built in, and the program will not accept it.
+
+** the program assumes inputfile and randfile are well formed.
+
+**if a scheduler spec other than F,L,S, or R is given, the program will print an error message and abort.
+
+**if a quantum of less than or equal to 0 is given, the program will print an error message and abort.
+

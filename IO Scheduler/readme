@@ -1,0 +1,17 @@
+Geon Kang
+N17120399
+Operating Systems
+Spring 2014
+Lab 4: IO Scheduler
+
+Readme File
+
+Instructions:
+Compile with command: "g++ iosched.cpp -o iosched" (without quotes)
+run with 
+"./iosched -s<schedalgo> <inputfile path>"
+(without quotes and brackets)
+
+Notes:
+** the program assumes inputfile is well formed.
+

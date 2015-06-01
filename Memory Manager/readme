@@ -1,0 +1,19 @@
+Geon Kang
+N17120399
+Operating Systems
+Spring 2014
+Lab 3: Memory Manager
+
+Readme File
+
+Instructions:
+Compile with command: "g++ mmu.cpp -o mmu" (without quotes)
+run with 
+"./mmu [-a<algorithm>] [-o<options>] [-f<num_frames>] <inputfile path> <randfile path>"
+(without quotes and brackets)
+
+Notes:
+**the -p and -f option is NOT built in, and the program will not accept it.
+
+** the program assumes inputfile and randfile are well formed.
+
